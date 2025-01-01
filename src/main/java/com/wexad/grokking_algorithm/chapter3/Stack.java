@@ -1,4 +1,4 @@
-package com.wexad.chapter3;
+package com.wexad.grokking_algorithm.chapter3;
 
 /**
  * Stack implementation in java

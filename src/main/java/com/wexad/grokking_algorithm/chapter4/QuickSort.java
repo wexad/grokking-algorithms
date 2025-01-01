@@ -1,4 +1,4 @@
-package com.wexad.chapter4;
+package com.wexad.grokking_algorithm.chapter4;
 
 import java.util.Arrays;
 
